@@ -8,7 +8,7 @@ Programa diseñado para el cálculo de funciones de partición de sistemas con u
 		<h2>BIENVENIDA</h2>
 		<p>Le damos la bienvenida al programa QPART, este programa ha sido desarrollado por Aarón Rodríguez e Ignacio
 			Migliaro, alumnos del curso de termodinámica estadística del semestre Enero-Junio 2016, en la Universidad
-			de Guanajuato.</p><br><br>
+			de Guanajuato.</p>
 		<p>En este archivo usted encontrará la información básica del programa, así como los detalles correspondientes
 			para su uso.</p>
 			<br>
