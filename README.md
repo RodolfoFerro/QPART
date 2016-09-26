@@ -1,10 +1,6 @@
-# QPART - Software de Termodinámica Estadística
-
-Programa diseñado para el cálculo de funciones de partición de sistemas con uno o dos átomos.
-
 <header>
-<h1>PROGRAMA &#10077;QPART&#10078;
-<br><sub>(Software de Termodinámica Estadística)</sub></h1>
+<h1>PROGRAMA &#10077;QPART&#10078; <sub>(Software de Termodinámica Estadística)</sub></h1>
+Programa diseñado para el cálculo de funciones de partición de sistemas con uno o dos átomos.
 </header>
 		<h2>BIENVENIDA</h2>
 		<p>Le damos la bienvenida al programa QPART, este programa ha sido desarrollado por Aarón Rodríguez e Ignacio
